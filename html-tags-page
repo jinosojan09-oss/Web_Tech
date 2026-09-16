@@ -1,0 +1,98 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jino Sojan - HTML Tags</title>
+</head>
+
+<body>
+
+    <h1>HTML Tags and Their Explanation</h1>
+
+    <h2>My Details</h2>
+
+    <p><strong>Name:</strong> Jino Sojan</p>
+    <p><strong>From:</strong> Kerala, India</p>
+    <p><strong>University:</strong> Riga Nordic University</p>
+
+    <hr>
+
+    <h2>10 HTML Tags</h2>
+
+    <h3>1. &lt;html&gt; Tag</h3>
+    <p>
+        The &lt;html&gt; tag is the root element of an HTML document.
+        It contains all the other HTML elements.
+    </p>
+
+    <h3>2. &lt;head&gt; Tag</h3>
+    <p>
+        The &lt;head&gt; tag contains information about the webpage,
+        such as the title and other settings.
+    </p>
+
+    <h3>3. &lt;title&gt; Tag</h3>
+    <p>
+        The &lt;title&gt; tag defines the title displayed on the browser tab.
+    </p>
+
+    <h3>4. &lt;body&gt; Tag</h3>
+    <p>
+        The &lt;body&gt; tag contains all the visible content of a webpage.
+    </p>
+
+    <h3>5. &lt;h1&gt; Tag</h3>
+    <p>
+        The &lt;h1&gt; tag is used to create the main heading of a webpage.
+    </p>
+
+    <h3>6. &lt;p&gt; Tag</h3>
+    <p>
+        The &lt;p&gt; tag is used to create paragraphs of text.
+    </p>
+
+    <h3>7. &lt;a&gt; Tag</h3>
+    <p>
+        The &lt;a&gt; tag is used to create a hyperlink to another webpage.
+    </p>
+
+    <h3>8. &lt;img&gt; Tag</h3>
+    <p>
+        The &lt;img&gt; tag is used to display images on a webpage.
+    </p>
+
+    <h3>9. &lt;ul&gt; Tag</h3>
+    <p>
+        The &lt;ul&gt; tag creates an unordered list using bullet points.
+    </p>
+
+    <h3>10. &lt;br&gt; Tag</h3>
+    <p>
+        The &lt;br&gt; tag is used to insert a line break in the webpage.
+    </p>
+
+    <hr>
+
+    <h2>Example of HTML Tags</h2>
+
+    <p>My interests include:</p>
+
+    <ul>
+        <li>Technology</li>
+        <li>Programming</li>
+        <li>Photography</li>
+    </ul>
+
+    <p>University Website:</p>
+
+    <a href="https://www.rtu.lv/" target="_blank">
+        Visit Riga Technical University
+    </a>
+
+    <br><br>
+
+    <p>Thank you for visiting my webpage!</p>
+
+</body>
+</html>
+```
